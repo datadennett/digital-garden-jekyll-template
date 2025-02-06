@@ -7,13 +7,16 @@ permalink: /
 
 # Welcome! 🌱
 
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
+Welcome! I'm Nat Dennett, and this is my digital knowledge garden. Come take a stroll! It's still a little sparse for now, but I'm planting more seeds every day. My hope is that you'll find plentiful fruit to pluck off the vines: ideas you can use about data analysis, business intelligence, and language learning.
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+## Languages
+[[Why I love Learning Languages]]
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+## Data Analysis
+[[SQL Tips and Tricks]]
+
+## Programming
+[[MacOS hidden folders]]
 
 <strong>Recently updated notes</strong>
 
